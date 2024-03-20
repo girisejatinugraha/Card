@@ -169,7 +169,7 @@ button:hover{
         max-width: 400px;
         margin-bottom: 30px;
         margin-top: -30px;
-        margin-left: 25px;
+        margin-right: 25px;
     }
     button:hover {
         border-color: #FD5800;
