@@ -167,6 +167,10 @@ button:hover{
     }
     .image-wrapper img{
         max-width: 400px;
+        margin-bottom: 30px;
+        margin-top: -30px;
+        justify-content: center; 
+        align-items: center;
     }
     button:hover {
         border-color: #FD5800;
