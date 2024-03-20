@@ -139,6 +139,9 @@ button:hover{
 }
 
 @media screen and (max-width: 720px) {
+    html, body {
+        overflow-x: hidden;
+    }
     .container {
         display: flex;
         justify-content: center;
