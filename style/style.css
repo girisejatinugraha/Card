@@ -154,6 +154,13 @@ button:hover{
     button{
         font-size: 13px;
     }
+    .image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 5vh;
+    position: relative;
+    }
     .image-wrapper img{
         max-width: 400px;
         margin-bottom: 30px;
