@@ -66,17 +66,6 @@ li.nav-link{
     font-weight: bold; 
 }
 
-.github a {
-    color: #333333; 
-    font-weight: bold; 
-    transition: color 0.3s ease;
-}
-
-.github a:hover{
-    color: #000000; 
-    font-weight: bold; 
-}
-
 .email a {
     color: #FF0000; 
     font-weight: bold; 
@@ -154,7 +143,7 @@ button:hover{
         font-size: 22px;
     }
     li.nav-link{
-        font-size: 10px;
+        font-size: 13px;
     }
     .main h2{
         font-size: 28px;
@@ -169,7 +158,6 @@ button:hover{
         max-width: 400px;
         margin-bottom: 30px;
         margin-top: -30px;
-        justify-content: flex-start;
     }
     button:hover {
         border-color: #FD5800;
@@ -177,9 +165,6 @@ button:hover{
     }
     .linkedin a:hover {
         color: #004182;
-    }
-    .github a:hover {
-        color: #000000;
     }
     .email a:hover {
         color: #CC0000;
