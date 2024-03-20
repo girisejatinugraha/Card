@@ -153,11 +153,6 @@ button:hover{
         height: 100vh; 
         margin: auto; 
         background: #F57D1F;
-        padding: 50px;
-        border-radius: 16px;
-        box-shadow: 0 4px 30px #1E1E1E;
-        backdrop-filter: blur(11.6px);
-        -webkit-backdrop-filter: blur(11.6px);
     }
     .logo{
         font-size: 22px;
