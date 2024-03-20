@@ -136,7 +136,6 @@ button:hover{
         flex-direction: column;
     }
 }
-
 @media screen and (max-width: 720px) {
     html, body {
         width: 100vw;
@@ -190,4 +189,4 @@ button:hover{
     .email a:hover {
         color: #CC0000;
     }
-}
+} 
