@@ -148,7 +148,7 @@ button:hover{
         align-items: center;
     }
     .glass-container {
-        margin-left: 300px;
+        margin-left: -50px;
         margin-right: auto;
         max-width: 80%; 
     }
