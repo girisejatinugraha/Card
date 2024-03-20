@@ -147,6 +147,10 @@ button:hover{
         justify-content: center;
         align-items: center;
     }
+    .glass-container {  
+        margin-right: auto;
+        max-width: 80%; 
+    }
     .logo{
         font-size: 22px;
     }
