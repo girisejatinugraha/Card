@@ -136,17 +136,13 @@ button:hover{
         flex-direction: column;
     }
 }
+
 @media screen and (max-width: 720px) {
-    html, body {
-        width: 100vw;
-        height: 100vh;
-        overflow-x: hidden;
-    }
     .logo{
         font-size: 22px;
     }
     li.nav-link{
-        font-size: 12px;
+        font-size: 13px;
     }
     .main h2{
         font-size: 28px;
@@ -156,13 +152,6 @@ button:hover{
     }
     button{
         font-size: 13px;
-    }
-    .image-wrapper {
-        display: flex;
-        justify-content: center;
-        align-items: center; 
-        margin-top: 5vh;
-        position: relative;
     }
     .image-wrapper img{
         max-width: 400px;
@@ -176,7 +165,10 @@ button:hover{
     .linkedin a:hover {
         color: #004182;
     }
+    .github a:hover {
+        color: #000000;
+    }
     .email a:hover {
         color: #CC0000;
     }
-} 
+}
