@@ -138,6 +138,11 @@ button:hover{
 }
 
 @media screen and (max-width: 720px) {
+    html, body {
+        width: 100vw;
+        height: 100vh;
+        overflow-x: hidden;
+    }
     .logo{
         font-size: 22px;
     }
@@ -163,7 +168,7 @@ button:hover{
     .image-wrapper img{
         max-width: 400px;
         margin-bottom: 30px;
-        margin-top: -60px;
+        margin-top: -30px;
     }
     button:hover {
         border-color: #FD5800;
